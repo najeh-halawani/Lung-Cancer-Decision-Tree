@@ -21,3 +21,7 @@ This can help in the development of preventive measures and personalized treatme
   *	Evaluating the decision tree model’s accuracy on the testing set. Calculate the accuracy using scikit-learn’s classification metrics.
 * Visualizing
   *	Visualize the decision tree model using Graphviz and Pydotplus. Create a dot file using the export_graphviz method and convert the file to a png.
+
+
+## Final Decision Tree:
+![](https://github.com/najeh-halawani/Lung-Cancer-Decision-Tree/blob/main/Lung-Cancer-Tree.png?raw=true)
